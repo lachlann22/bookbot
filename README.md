@@ -1,2 +1,2 @@
 # bookbot
-Guided project for analyzing a text file.
+BookBot is my first project!
